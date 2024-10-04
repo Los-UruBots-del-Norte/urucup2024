@@ -1,6 +1,6 @@
 # urucup2024
 
-# Instalacao/Instalacion
+# Instalacao/Instalacion (ROS2 Humble, Ubuntu 22.04)
 bash install.sh
 
 
